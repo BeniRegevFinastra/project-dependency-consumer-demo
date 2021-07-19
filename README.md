@@ -1,2 +1,2 @@
 # project-dependency-consumer-demo
-Project to demonstrate consuming another project as a dependency to this one.
+This project consumes project "_project-dependency-demo_" as its dependency.
