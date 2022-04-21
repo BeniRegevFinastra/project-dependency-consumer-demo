@@ -1,6 +1,6 @@
-package com.finastra.model;
+package com.morphisec.model;
 
-import org.example.enums.Country;
+import com.morphisec.enums.Country;
 
 public class User {
     private String firstName;

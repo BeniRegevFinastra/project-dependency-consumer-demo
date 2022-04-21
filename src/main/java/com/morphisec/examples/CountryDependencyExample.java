@@ -1,7 +1,7 @@
-package com.finastra.examples;
+package com.morphisec.examples;
 
-import com.finastra.model.User;
-import org.example.enums.Country;
+import com.morphisec.enums.Country;
+import com.morphisec.model.User;
 
 public class CountryDependencyExample {
     public static void main(String[] args) {
